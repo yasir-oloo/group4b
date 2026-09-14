@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accra Ride-Hailing — Revenue & Cancellation Analysis
 
 **Question:** Which pickup zones generate the most revenue, and where are
@@ -87,3 +88,6 @@ data — it means the fix for cancellations probably isn't "move drivers,"
 it's something that touches the whole operation evenly (driver supply at
 busy hours, payment friction, app reliability), which is worth
 investigating separately from this zone-level dataset.
+=======
+#Data Analytic Intenship
+>>>>>>> 0d3bade9b174aa45d0d276ad04d8a4ac9e58fe61
