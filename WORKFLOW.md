@@ -26,12 +26,12 @@ Each week has a **Deliverable** and a **Done when** line. If you cannot honestly
 
 ### Everyone individually
 
-- [ ] Created a GitHub account and sent my username to the group lead
-- [ ] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
-- [ ] Installed a SQL client (DBeaver recommended)
-- [ ] Installed Git and ran `git config --global user.name` and `user.email`
-- [ ] Connected to the database and ran the three checks on my access sheet
-- [ ] Confirmed I can reach `raw_rides` and write to `group4b`
+- [x] Created a GitHub account and sent my username to the group lead
+- [x] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
+- [x] Installed a SQL client (DBeaver recommended)
+- [x] Installed Git and ran `git config --global user.name` and `user.email`
+- [x] Connected to the database and ran the three checks on my access sheet
+- [x] Confirmed I can reach `raw_rides` and write to `group4b`
 
 ### As a group
 
