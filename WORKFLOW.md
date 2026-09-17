@@ -26,20 +26,20 @@ Each week has a **Deliverable** and a **Done when** line. If you cannot honestly
 
 ### Everyone individually
 
-- [ ] Created a GitHub account and sent my username to the group lead
-- [ ] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
-- [ ] Installed a SQL client (DBeaver recommended)
-- [ ] Installed Git and ran `git config --global user.name` and `user.email`
-- [ ] Connected to the database and ran the three checks on my access sheet
-- [ ] Confirmed I can reach `raw_rides` and write to `group4b`
+- [X] Created a GitHub account and sent my username to the group lead
+- [X] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
+- [X] Installed a SQL client (DBeaver recommended)
+- [X] Installed Git and ran `git config --global user.name` and `user.email`
+- [X] Connected to the database and ran the three checks on my access sheet
+- [X] Confirmed I can reach `raw_rides` and write to `group4b`
 
 ### As a group
 
-- [ ] Created the group repository on GitHub and added every member
-- [ ] Everyone has cloned it and made at least one commit
-- [ ] Agreed a communication channel and a weekly working time
-- [ ] Agreed who leads each phase (see the rota below)
-- [ ] Read the project brief together — all of it, aloud if necessary
+- [X] Created the group repository on GitHub and added every member
+- [X] Everyone has cloned it and made at least one commit
+- [X] Agreed a communication channel and a weekly working time
+- [X] Agreed who leads each phase (see the rota below)
+- [X] Read the project brief together — all of it, aloud if necessary
 
 **Deliverable:** a repository with every member's name in the commit history.  
 **Done when:** every single person has connected to the database on their own machine. Not the group lead on everyone's behalf.
