@@ -1,3 +1,4 @@
+
 # Project workflow — group4b
 
 **Domain:** Ride-hailing trips &nbsp;|&nbsp; **Paired with:** group4a &nbsp;|&nbsp; **Reads:** `raw_rides` &nbsp;|&nbsp; **Writes:** `group4b`
@@ -24,14 +25,21 @@ Each week has a **Deliverable** and a **Done when** line. If you cannot honestly
 
 **Goal:** everyone can reach the database and the repository.
 
-### Everyone individually
-
+### Everyone individual
 - [X] Created a GitHub account and sent my username to the group lead
 - [X] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
 - [X] Installed a SQL client (DBeaver recommended)
 - [X] Installed Git and ran `git config --global user.name` and `user.email`
 - [X] Connected to the database and ran the three checks on my access sheet
 - [X] Confirmed I can reach `raw_rides` and write to `group4b`
+
+- [x] Created a GitHub account and sent my username to the group lead
+- [x] Installed Power BI Desktop (Windows only — flag it now if you are on Mac or Linux)
+- [x] Installed a SQL client (DBeaver recommended)
+- [x] Installed Git and ran `git config --global user.name` and `user.email`
+- [x] Connected to the database and ran the three checks on my access sheet
+- [x] Confirmed I can reach `raw_rides` and write to `group4b`
+
 
 ### As a group
 
